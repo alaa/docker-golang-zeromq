@@ -29,3 +29,5 @@ RUN make install
 USER root
 RUN make install
 RUN ldconfig
+
+WORKDIR /root
