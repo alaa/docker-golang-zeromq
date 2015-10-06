@@ -1,4 +1,4 @@
-FROM golang:1.5.1-wheezy
+FROM golang:1.5
 USER root
 
 # Dependencies
